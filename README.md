@@ -27,15 +27,32 @@ Here are some ideas to get you started:
 
 ### Tools & Technologies
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333?&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript&logoColor=ddc508)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-333?&logo=C-sharp&logoColor=239120)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333?&logo=c%2b%2b&logoColor=00599C)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-333?&logo=Unity&logoColor=ffffff)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333?&logo=Jira-Software&logoColor=0052CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333?&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-fff?&logo=C-sharp&logoColor=239120)&nbsp;
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-fff?&logo=Unity&logoColor=000)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-fff?&logo=Jira-Software&logoColor=0052CC)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)&nbsp;
+![ActionScript](https://img.shields.io/badge/-ActionScript-fff?logo=adobe&logoColor=ff0000)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-fff?logo=lua&logoColor=2c2d72)&nbsp;
+![Corona Engine](https://img.shields.io/badge/-Corona-fff?logo=Corona-Engine&logoColor=f96f29)&nbsp;
+
+### Projects
+
+||||
+|:---:|:---:|:---:|
+| [![Hering1](https://img.youtube.com/vi/olgOxkl6v-8/0.jpg)](https://www.youtube.com/watch?v=olgOxkl6v-8) | [![Hering2](https://img.youtube.com/vi/fpQwxPr43Xk/0.jpg)](https://www.youtube.com/watch?v=fpQwxPr43Xk) | [![Monster Jam](https://img.youtube.com/vi/KtFIPfeIKMc/0.jpg)](https://www.youtube.com/watch?v=KtFIPfeIKMc) |
+| ActionScript | ActionScript | Lua / Corona Engine |
+| [![Minions](https://img.youtube.com/vi/8GJt-Dchkms/0.jpg)](https://www.youtube.com/watch?v=8GJt-Dchkms) | [![Littles Pet Shop](https://img.youtube.com/vi/pbfIN_JqJY4/0.jpg)](https://www.youtube.com/watch?v=pbfIN_JqJY4) | [![Sponge Bob](https://img.youtube.com/vi/dZFK8T0TL8o/0.jpg)](https://www.youtube.com/watch?v=dZFK8T0TL8o) |
+| Lua / Corona Engine | Lua / Corona Engine | Lua / Corona Engine |
+
+
+
+
+
 
 ### Reach Me
 
