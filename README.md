@@ -47,23 +47,23 @@ Here are some ideas to get you started:
 
 ||||
 |:---:|:---:|:---:|
+| Adventure Time - Adventure Inline <br> C# / Unity <br> Concept & Developement | Adventure Time -  Colorful Time <br> C# / Unity <br> Concept & Developement | Batman Lego - Streets of Gotham City <br> C# / Unity <br> Developement |
 | [![Adventure Time - Adventure Inline](assets/gifs/adventure-time-adventure-inline.gif)](https://feldhaus.github.io/portfolio/assets/demos/adventure-time-adventure-inline/) | [![Adventure Time - Colorful Time](assets/gifs/adventure-time-colorful-time.gif)](https://feldhaus.github.io/portfolio/assets/demos/adventure-time-colorful-time/) | [![Batman Lego - Streets of Gotham City](assets/gifs/batman-lego-streets-gotham-city.gif)](https://feldhaus.github.io/portfolio/assets/demos/batman-lego-streets-gotham-city/) |
-| C# / Unity | C# / Unity | C# / Unity |
+| Matemagic <br> C# / Unity <br> Concept, Level Design & Developement | TMNT - Asteroid Blaster <br> C# / Unity <br> Developement | TMNT - Triceraton Battle <br> C# / Unity <br> Developement |
 | [![Matemagic](assets/gifs/matemagic.gif)](https://feldhaus.github.io/portfolio/assets/demos/matemagic/) | [![TMNT - Asteroid Blaster](assets/gifs/tmnt-asteroid-blaster.gif)](https://feldhaus.github.io/portfolio/assets/demos/tmnt-asteroid-blaster/) | [![TMNT - Triceraton Battle](assets/gifs/tmnt-triceraton-battle.gif)](https://feldhaus.github.io/portfolio/assets/demos/tmnt-triceraton-battle/) |
-| C# / Unity | C# / Unity | C# / Unity |
+| Hering - Labirinto Submarino <br> ActionScript / Flash <br> Development | Hering - Entregador Maluco <br> ActionScript / Flash <br> Development | Monster Jam <br> Lua / Corona Engine <br> Development |
 | [![Hering1](https://img.youtube.com/vi/olgOxkl6v-8/0.jpg)](https://www.youtube.com/watch?v=olgOxkl6v-8) | [![Hering2](https://img.youtube.com/vi/fpQwxPr43Xk/0.jpg)](https://www.youtube.com/watch?v=fpQwxPr43Xk) | [![Monster Jam](https://img.youtube.com/vi/KtFIPfeIKMc/0.jpg)](https://www.youtube.com/watch?v=KtFIPfeIKMc) |
-| ActionScript / Flash Builder | ActionScript / Flash Builder | Lua / Corona Engine |
+| Minions Pinball <br> Lua / Corona Engine <br> Development | Littlest PetShop <br> Lua / Corona Engine <br> Development | The SpongeBob Movie <br> Lua / Corona Engine <br> Development |
 | [![Minions](https://img.youtube.com/vi/8GJt-Dchkms/0.jpg)](https://www.youtube.com/watch?v=8GJt-Dchkms) | [![Littles Pet Shop](https://img.youtube.com/vi/pbfIN_JqJY4/0.jpg)](https://www.youtube.com/watch?v=pbfIN_JqJY4) | [![Sponge Bob](https://img.youtube.com/vi/dZFK8T0TL8o/0.jpg)](https://www.youtube.com/watch?v=dZFK8T0TL8o) |
-| Lua / Corona Engine | Lua / Corona Engine | Lua / Corona Engine |
 
 ### Personal Projects
 
 ||||
 |:---:|:---:|:---:|
+| Coding 2D Cookbook <br> JavaScript / Pixi.js <br> Concept & Development | Groundless <br> JavaScript / Phaser <br> Concept, Level Design & Development | Minefeld <br> JavaScript / Phaser <br> Concept & Development |
 | [![Coding 2D Cookbook](assets/gifs/coding-2d-cookbook.gif)](https://feldhaus.github.io/coding-2d-cookbook/) | [![Groundless](assets/gifs/groundless.gif)](https://feldhaus.github.io/groundless/) | [![Minenfeld](assets/gifs/minenfeld.gif)](https://feldhaus.github.io/minenfeld/) |
-| JavaScript / Pixi.js | JavaScript / Phaser | JavaScript / Phaser |
+| Sokoban <br> TypeScript / Phaser <br> Development | Zhed <br> TypeScript / Phaser <br> Development | Aviator <br> Typecript / Three.js <br> Development |
 | [![Sokoban](assets/gifs/sokoban.gif)](https://feldhaus.github.io/phaser-sample-games/?&game=sokoban) | [![Zhed](assets/gifs/zhed.gif)](https://feldhaus.github.io/phaser-sample-games/?&game=zhed) | [![Aviator](assets/gifs/aviator.gif)](https://feldhaus.github.io/aviator/) |
-| TypeScript / Phaser | TypeScript / Phaser | Typecript / Three.js |
 
 
 ### Reach Me
